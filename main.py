@@ -21,6 +21,7 @@ def auth(argument1, argument2): #called when client receives request
 		print("403(Forbidden)")
 		return "403(Forbidden)"
 
+
 @client.event
 def on_ready():
 	if os.name == 'posix':
