@@ -5,7 +5,7 @@ A sign in system for scratch
 
 ```zsh
 git clone https://github.com/Happpydust/ScratchSignIn.git
-cd Desktop
+cd ScratchSignIn
 pip install -U scratchattach
 ```
 
